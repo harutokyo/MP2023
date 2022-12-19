@@ -3,21 +3,17 @@ const _m1data = [
         base_id: "ando",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/ando.jpg",
         name: "安藤 美由",
+        lab: "服部研究室",
         data: {
             name_ja: "安藤 美由",
             name_en: "Miyu Ando",
             work1_img: "./images/artistsinfo/m1/ando/1.jpg",
-            work1_caption: "《影の記録》（2022）",
+            work1_caption: "《鶏皮保存日記》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/ando/2.jpg",
             work2_caption: "《鶏皮飼育日記》（2019）",
-            work3_img: "./images/artistsinfo/m1/ando/3.jpg",
-            work3_caption: "《鶏皮飼育者の手触り》（2022）",
             info: `プロフィール
             武蔵野美術大学造形学部映像学科卒業。
-            触る事で対象についての知見を得、その記録の集積を元に制作を行う。
-
-            展示歴
-            2022「令和三年度 武蔵野美術大学 卒業・修了制作展」（武蔵野美術大学）`,
+            触る事で対象についての知見を得、その記録の集積を元に制作を行う。`,
             links: [
                 {
                     text: "《鶏皮飼育日記》",
@@ -30,11 +26,12 @@ const _m1data = [
         base_id: "izumi",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/izumi.jpg",
         name: "和泉 はるな",
+        lab: "桐山研究室",
         data: {
             name_ja: "和泉 はるな",
             name_en: "Haruna Izumi",
             work1_img: "./images/artistsinfo/m1/izumi/1.jpg",
-            work1_caption: "《織り語り》（2022）",
+            work1_caption: "《いちめんの》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/izumi/2.jpg",
             work2_caption: "《これはネコではない》（2019）",
             work3_img: "./images/artistsinfo/m1/izumi/3.jpg",
@@ -52,8 +49,11 @@ const _m1data = [
             2016「JAGDA学生グランプリ2016」（東京ミッドタウン・デザインハブ）
 
             受賞歴
+            2021「多摩美術大学卒業制作」優秀作品
             2017「東京TDC賞2017」入選
             2016「JAGDA学生グランプリ」入選
+
+            2022年12月「南カリフォルニア大学への派遣プログラム」
             `,
             links: [
                 {
@@ -67,11 +67,12 @@ const _m1data = [
         base_id: "itok",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/itok.jpg",
         name: "伊藤 琴音",
+        lab: "桂研究室",
         data: {
             name_ja: "伊藤 琴音",
             name_en: "Kotone Ito",
             work1_img: "./images/artistsinfo/m1/itok/3.jpg",
-            work1_caption: "《流水》（2022）",
+            work1_caption: "《面影》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/itok/2.jpg",
             work2_caption: "《あわいをきく》（2021）",
             work3_img: "./images/artistsinfo/m1/itok/1.jpg",
@@ -80,9 +81,6 @@ const _m1data = [
             1999年東京都生まれ。
             2022年東京藝術大学音楽学部音楽環境創造科卒業。
             聴覚を主軸とした知覚についての思索や制作を行う。
-
-            展示歴
-            2022「東京藝術大学音楽環境創造科卒業制作・論文発表会 2022」（東京藝術大学千住キャンパス）
             `,
             links: [
                 {
@@ -104,11 +102,12 @@ const _m1data = [
         base_id: "itom",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/itom.jpg",
         name: "伊藤 道史",
+        lab: "桂研究室",
         data: {
             name_ja: "伊藤 道史",
             name_en: "Michibumi Ito",
-            work1_img: "./images/artistsinfo/m1/itom/1.png",
-            work1_caption: "《パレーシアの地平》（2022）",
+            work1_img: "./images/artistsinfo/m1/itom/1.jpg",
+            work1_caption: "《PHOTOPHOBIA1》《PHOTOPHOBIA2》《PHOTOPHOBIA3》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/itom/2.jpg",
             work2_caption: "《クロールする蛹のためのレクチャー》（2021）",
             work3_img: "./images/artistsinfo/m1/itom/3.jpg",
@@ -118,13 +117,10 @@ const _m1data = [
             病理や宗教などある人々にとって非現実的(バーチャル/フィクショナル)なイメージを扱いながら、今私たちがいる時空間とは別にありえた世界について考えている。
 
             展示歴
-            –個人
+            2022「私であることの試み/CONATUS」（日本橋 NEORT++）
             2021「個展-クロールする蛹のためのレクチャー」 （TIME MACHINE）
-            –グループ・企画
             2022「NEWVIEW FEST 2021-皮膚祭 / XipeTotec Reality」（渋谷PARCO 4F / バーチャル会場）
             2021「IAMAS_Open_house 2021」（オンライン）
-            2021「第9回 VROD」（FinGATE KAYABA）
-            2021「S.C.L World #01」（渋谷クオーツギャラリー）
             `,
             links: [
                 {
@@ -142,11 +138,12 @@ const _m1data = [
         base_id: "eguchi",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/eguchi.jpeg",
         name: "江口 智之",
+        lab: "桂研究室",
         data: {
             name_ja: "江口 智之",
             name_en: "Tomoyuki Eguchi",
-            work1_img: "./images/artistsinfo/m1/eguchi/1.jpeg",
-            work1_caption: "《Following》（2022）",
+            work1_img: "./images/artistsinfo/m1/eguchi/1.jpg",
+            work1_caption: "《Mariage》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/eguchi/2.jpeg",
             work2_caption: "《Nastagio degli Onesti》（2022）",
             work3_img: "./images/artistsinfo/m1/eguchi/3.jpg",
@@ -181,11 +178,12 @@ const _m1data = [
         base_id: "oda",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/oda.jpg",
         name: "小田 陽菜乃",
+        lab: "畠山研究室",
         data: {
             name_ja: "小田 陽菜乃",
             name_en: "Hinano Oda",
             work1_img: "./images/artistsinfo/m1/oda/1.jpg",
-            work1_caption: "《檸檬/変身》（2022）",
+            work1_caption: "《I see.》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/oda/2.jpg",
             work2_caption: "《食い入るように》（2021）",
             work3_img: "./images/artistsinfo/m1/oda/3.jpg",
@@ -202,7 +200,6 @@ const _m1data = [
             2019「東京インディペンデント」（東京藝術大学美術館　陳列館、東京）
             2019「二人展　胎児の夢」（DESIGN FESTA GALLERY WEST1-D、
             東京）
-            2018「oterart2018」（全性寺、石川）
 
             活動歴
             金沢美術工芸大学アートプロジェクトチーム「スズプロ」で活動。
@@ -227,11 +224,12 @@ const _m1data = [
         base_id: "kurachi",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/kurachi.jpg",
         name: "倉知 朋之介",
+        lab: "桂研究室",
         data: {
             name_ja: "倉知 朋之介",
             name_en: "Tomonosuke Kurachi",
             work1_img: "./images/artistsinfo/m1/kurachi/1.jpg",
-            work1_caption: "《BBBooks》（2022）",
+            work1_caption: "《PoPoPot》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/kurachi/2.jpg",
             work2_caption: "《ムシ図鑑》（2022）",
             work3_img: "./images/artistsinfo/m1/kurachi/3.jpg",
@@ -244,14 +242,16 @@ const _m1data = [
             展示歴
             2022「惑星ザムザ」（小高製本工業株式会社跡地、東京）
             2022「ARTISTS’FAIR KYOTO 2022」（京都新聞ビル 地下1階、京都）
-            2022「NITO09」（アート／空家 二人、東京）
-
+            2022｢獸（第1章/宝町団地）｣（CONTRAST、東京）
+            2022「P.O.N.D.」 (渋谷PARCO、東京)
+            など
+            
             受賞歴
             2020「2019年度京都造形芸術大学作品展」優秀賞
             `,
             links: [
                 {
-                    text: "Teitter: @kadojr91",
+                    text: "Twitter: @kadojr91",
                     url: "https://twitter.com/kadojr91"
                 },
                 {
@@ -265,11 +265,12 @@ const _m1data = [
         base_id: "korenaga",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/korenaga.jpg",
         name: "是永 悠之介",
+        lab: "高山研究室",
         data: {
             name_ja: "是永 悠之介",
             name_en: "Yunosuke Korenaga",
             work1_img: "./images/artistsinfo/m1/korenaga/1.jpg",
-            work1_caption: "《Lights》（2022）",
+            work1_caption: "《地図はあとで見る》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/korenaga/2.jpg",
             work2_caption: "《空ける、ユーリカ》（2022）",
             work3_img: "./images/artistsinfo/m1/korenaga/3.jpg",
@@ -288,8 +289,8 @@ const _m1data = [
                     url: "https://twitter.com/aulcb/"
                 },
                 {
-                    text: "Twitter: @kore_works",
-                    url: "https://www.instagram.com/kore_works/"
+                    text: "Instagram: @korenaga.jp",
+                    url: "https://www.instagram.com/korenaga.jp/"
                 }
             ]
         }
@@ -298,11 +299,12 @@ const _m1data = [
         base_id: "saito",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/saito.jpg",
         name: "齋藤 千春",
+        lab: "畠山研究室",
         data: {
             name_ja: "齋藤 千春",
             name_en: "Chiharu Saito",
-            work1_img: "./images/artistsinfo/m1/saito/1.jpg",
-            work1_caption: "《ラジオドラマ》（2022）",
+            work1_img: "./images/artistsinfo/m1/saito/1.jpeg",
+            work1_caption: "《phenomenon》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/saito/2.jpg",
             work2_caption: "《Somewhere》（2021）",
             //work3_img: "./images/artistsinfo/m1/saito/3.jpg",
@@ -313,8 +315,8 @@ const _m1data = [
             `,
             links: [
                 {
-                    text: "Instagram: @hummingguy",
-                    url: "https://www.instagram.com/hummingguy"
+                    text: "Website",
+                    url: "https://wwww.chiharusaito.net"
                 },
             ]
         }
@@ -323,11 +325,12 @@ const _m1data = [
         base_id: "suzuki",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/suzuki.jpg",
         name: "鈴木 創大",
+        lab: "畠山研究室",
         data: {
             name_ja: "鈴木 創大",
             name_en: "Sota Suzuki",
             work1_img: "./images/artistsinfo/m1/suzuki/1.jpg",
-            work1_caption: "《オノマトペ》（2022）",
+            work1_caption: "《Gate》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/suzuki/2.jpg",
             work2_caption: "《Delicious water》（2022）",
             work3_img: "./images/artistsinfo/m1/suzuki/3.jpg",
@@ -339,6 +342,7 @@ const _m1data = [
             またVJ・映像作家としても活動している。
 
             展示歴
+            2022「ART AWARD TOKYO MARUNOUCHI2022」（丸ビルマルキューブ）
             2022「多摩美術大学 卒業制作展・大学院修了制作展」
             2022「第45回 東京五美術大学連合卒業・修了制作展」
             2021 「個展-Delicious Water-」(TAU Painting East Wing 402)
@@ -346,12 +350,13 @@ const _m1data = [
             2019 「acousticlubvol.4」（千代田区 内幸町ホール）
 
             受賞歴
+            2022「ART AWARD TOKYO MARUNOUCH2022」今村有策賞
             2022 「多摩美術大学 卒業制作展」優秀賞
             `,
             links: [
                 {
-                    text: "HP",
-                    url: "https://hyasssy.https://site-2251842-4277-9677.mystrikingly.com/"
+                    text: "Website",
+                    url: "https://site-2251842-4277-9677.mystrikingly.com/"
                 },
                 {
                     text: "Twitter: sota_suzu",
@@ -368,15 +373,14 @@ const _m1data = [
         base_id: "chanya",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/chanya.jpg",
         name: "チャンヤ･スィウランポン",
+        lab: "桐山研究室",
         data: {
             name_ja: "チャンヤ･スィウランポン",
             name_en: "Chanya Sriuranpong",
-            work1_img: "./images/artistsinfo/m1/chanya/1.png",
-            work1_caption: "《GOOD MORNING》（2022）",
-            work2_img: "./images/artistsinfo/m1/chanya/2.jpg",
-            work2_caption: "《GHOSTLY NEIGHBOUR》（2019）",
-            work3_img: "./images/artistsinfo/m1/chanya/3.jpg",
-            work3_caption: "《REALITY ESCAPE CLOAK》（2018）",
+            work1_img: "./images/artistsinfo/m1/chanya/2.jpg",
+            work1_caption: "《DUCK!》（2022-2023）",
+            work2_img: "./images/artistsinfo/m1/chanya/1.png",
+            work2_caption: "《GOOD MORNING》（2022）",
             info: `プロフィール
             タイ、バンコク出身。
             チュラーロンコーン大学コミュニケーションデザイン学科卒業。
@@ -393,7 +397,7 @@ const _m1data = [
             `,
             links: [
                 {
-                    text: "HP",
+                    text: "Website",
                     url: "https://www.chaatenn.com"
                 },
             ]
@@ -403,20 +407,21 @@ const _m1data = [
         base_id: "homma",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/homma.jpg",
         name: "本間 悠暉",
+        lab: "桂研究室",
         data: {
             name_ja: "本間 悠暉",
             name_en: "Yuki Homma",
-            work1_img: "./images/artistsinfo/m1/homma/1.jpg",
-            work1_caption: "《Para-Vision》（2022）",
-            work2_img: "./images/artistsinfo/m1/homma/2.jpg",
-            work2_caption: "《Project GIBSON（グループ・企画 2021）》",
-            //work3_img: "./images/artistsinfo/m1/homma/3.jpg",
-            //work3_caption: "hogehoge",
+            work1_img: "./images/artistsinfo/m1/homma/3.jpg",
+            work1_caption: "《クロニクル・オブ・ア・ヴォイド》（2022-2023）",
+            work2_img: "./images/artistsinfo/m1/homma/1.jpg",
+            work2_caption: "《Para-Vision》（2022）",
+            work3_img: "./images/artistsinfo/m1/homma/2.jpg",
+            work3_caption: "《Project GIBSON（グループ・企画 2021）》",
             info: `プロフィール
             神奈川県横浜市出身。
             東京大学経済学部経済学科卒業。
-            2018年より、MESON, incにてAR/VR技術を活用した体験の企画・研究活動に参画。
-            都市の記憶のアーカイブや、メディアを介した個人像に着想を得て制作を行う。
+            都市の記憶のアーカイブや、メディアで形成される個人像に着想を得て制作を行う。
+            MESON, incにてAR/VR技術を活用した体験の企画・研究活動にも参画。
 
             展示歴
             -グループ・企画
