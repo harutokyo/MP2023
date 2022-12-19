@@ -755,7 +755,7 @@ backdrop-filter: blur(30px);
 }
 .modal-info-link-list button{
   color: #314FEB;
-  background-color: none;
+  background-color:  #f5f5f7;
   border: none;
   outline: none;
   padding: 0;
