@@ -54,11 +54,11 @@ const _m2data = [
         data: {
             name_ja: "うしお 鶏",
             name_en: "Ushio K",
-            work1_img: "./images/artistsinfo/m2/ushio/1.png",
+            work1_img: "./images/artistsinfo/m2/ushio/1.jpg",
             work1_caption: "《そこにいるもの》（2022-2023）",
-            work2_img: "./images/artistsinfo/m2/ushio/2.png",
+            work2_img: "./images/artistsinfo/m2/ushio/2.jpg",
             work2_caption: "《かえり道》（2022）",
-            work3_img: "./images/artistsinfo/m2/ushio/3.png",
+            work3_img: "./images/artistsinfo/m2/ushio/3.jpg",
             work3_caption: "《君のようなふりをして》（2021）",
             info: `プロフィール
 1998年東京生まれ。幼い頃から今に至るまで描き続けているキャラクター、手癖でつい描いてしまう落書きなど、自身に染み付いている存在や経験への興味を元に、それらとの関わり方を模索している。
@@ -196,14 +196,14 @@ const _m2data = [
         data: {
             name_ja: "佐藤 瞭太郎",
             name_en: "Ryotaro Sato",
-            work1_img: "./images/artistsinfo/m2/sato/3.png",
+            work1_img: "./images/artistsinfo/m2/sato/3.jpg",
             work1_caption: "《Interchange》（2022）",
-            work2_img: "./images/artistsinfo/m2/sato/4.png",
+            work2_img: "./images/artistsinfo/m2/sato/4.jpg",
             work2_caption: "《Drifter》（2022）",
             work3_img: "./images/artistsinfo/m2/sato/1.jpg",
             work3_caption: "《All Night》（2022）",
-            work4_img: "./images/artistsinfo/m2/sato/2.jpg",
-            work4_caption: "《手腕振動》（2021）",
+            //work4_img: "./images/artistsinfo/m2/sato/2.jpg",
+            //work4_caption: "《手腕振動》（2021）",
 
             info: `プロフィール
 インターネットから流れついた大量の素材データを「漂流物」と捉え、それらの来し方を描写することで、今日におけるデータの移動と変形について思考する作品を制作している。
@@ -278,11 +278,11 @@ const _m2data = [
         data: {
             name_ja: "砂川 天望",
             name_en: "Tembo Sunagawa",
-            work1_img: "./images/artistsinfo/m2/sunagawa/1.png",
+            work1_img: "./images/artistsinfo/m2/sunagawa/1.jpg",
             work1_caption: "《Sunny》（2022-2023）",
-            work2_img: "./images/artistsinfo/m2/sunagawa/2.png",
+            work2_img: "./images/artistsinfo/m2/sunagawa/2.jpg",
             work2_caption: "《tutorial》（2022）",
-            work3_img: "./images/artistsinfo/m2/sunagawa/3.png",
+            work3_img: "./images/artistsinfo/m2/sunagawa/3.jpg",
             work3_caption: "《Untitled》（2021）",
 
             info: `プロフィール
@@ -314,7 +314,7 @@ const _m2data = [
     data: {
         name_ja: "龍村 景一",
         name_en: "Keichi Tatsumura",
-        work1_img: "./images/artistsinfo/m2/tatsumura/1.png",
+        work1_img: "./images/artistsinfo/m2/tatsumura/1.jpg",
         work1_caption: "「ゾンビだって恋が屍体！」（2022）",
         work2_img: "./images/artistsinfo/m2/tatsumura/2.png",
         work2_caption: "「異世界入管 - 転生したら人間だった件-」（2022）",
@@ -393,7 +393,7 @@ const _m2data = [
             name_en: "Rioha Nishimura",
             work1_img: "./images/artistsinfo/m2/nishimura/1.jpg",
             work1_caption: "《えすく》（2022-2023）",
-            work2_img: "./images/artistsinfo/m2/nishimura/2.png",
+            work2_img: "./images/artistsinfo/m2/nishimura/2.jpg",
             work2_caption: "《歌を数える》（2022）",
             work3_img: "./images/artistsinfo/m2/nishimura/3.jpg",
             work3_caption: "《ハッピーエンド》（2022）",
@@ -429,7 +429,7 @@ const _m2data = [
             name_en: "Yuto Hayashi",
             work1_img: "./images/artistsinfo/m2/hayashi/1.jpg",
             work1_caption: "Neotown（2022-2023）",
-            work2_img: "./images/artistsinfo/m2/hayashi/2.png",
+            work2_img: "./images/artistsinfo/m2/hayashi/2.jpg",
             work2_caption: "",
             work3_img: "./images/artistsinfo/m2/hayashi/3.jpg",
             work3_caption: "《Can I see You now?》（2021）",
