@@ -13,21 +13,23 @@ a {
   margin: 40px;
 }
 
-/*
-top-title{
+
+#top-title{
   opacity: 0;
   position: absolute;
   top: 50%;
   left: 50%;
+  /*width: calc(100vw - 40px);
+  margin:0 auto;*/
   transform: translate(-50%,-50%);
   animation-duration: 1.2s;
   animation-delay:2.3s;
   animation-fill-mode: forwards;
   animation-name: fadeIn;
 }
-*/
 
-/*
+
+
 @keyframes fadeIn {
   0% {
     opacity: 0;
@@ -47,7 +49,7 @@ top-title{
 }
 .top-op{
   z-index: 99;
-  background: #CC1B3B;
+  background: linear-gradient(to bottom right, #009F90,#A59B38,#d83a35,#F9B879);
   animation-duration: 1.2s;
   animation-delay:4.5s;
   animation-fill-mode: forwards;
@@ -87,7 +89,7 @@ top-title{
   width: 0%;
   left: 100%;
 }
-}*/
+}
 
 
 
@@ -362,6 +364,25 @@ body{
   z-index: 10000; */
 }
 
+.statement-title {
+  color: black;
+  font-size: 18px;
+  /* margin: 10px 7px; */
+  margin: 4.333vw 4.667vw;
+}
+
+.statement-title-mini {
+  color: black;
+  font-size: 10px;
+  /* margin: 10px 7px; */
+  margin: 4.333vw 4.667vw;
+}
+
+.statement-title-hr {
+  padding: 0 0px 0 0;
+  margin: 4.333vw 4.667vw;
+}
+
 
 .section-title{
   color: black;
@@ -603,7 +624,7 @@ backdrop-filter: blur(30px);
 
 .artist-list-info-name{
 	color: black;
-	font-size: 15px;
+	font-size: 13px;
 	font-weight:300;
 	letter-spacing: 0.15em;
 	line-height: 1.8em;
@@ -616,7 +637,7 @@ backdrop-filter: blur(30px);
 
 .artist-list-info-lab{
 	color: black;
-	font-size: 13px;
+	font-size: 10px;
 	font-weight:300;
 	letter-spacing: 0.15em;
 	line-height: 1.8em;
@@ -773,7 +794,12 @@ backdrop-filter: blur(30px);
 	width: 100%;
 }
 
-
+/*Twitter*/
+.timeline {
+  width: 80%;
+  border-radius: 10px;
+  margin: 60px auto;
+}
 
 /*フッター*/
 footer{

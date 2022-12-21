@@ -3,7 +3,7 @@ const _m1data = [
         base_id: "ando",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/ando.jpg",
         name: "安藤 美由",
-        lab: "服部研究室",
+        lab: "Miyu Ando",
         data: {
             name_ja: "安藤 美由",
             name_en: "Miyu Ando",
@@ -26,7 +26,7 @@ const _m1data = [
         base_id: "izumi",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/izumi.jpg",
         name: "和泉 はるな",
-        lab: "桐山研究室",
+        lab: "Haruna Izumi",
         data: {
             name_ja: "和泉 はるな",
             name_en: "Haruna Izumi",
@@ -53,6 +53,7 @@ const _m1data = [
 2017「東京TDC賞2017」入選
 2016「JAGDA学生グランプリ」入選
 
+助成
 2022年12月「南カリフォルニア大学への派遣プログラム」
 `,
             links: [
@@ -67,7 +68,7 @@ const _m1data = [
         base_id: "itok",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/itok.jpg",
         name: "伊藤 琴音",
-        lab: "桂研究室",
+        lab: "Kotone Ito",
         data: {
             name_ja: "伊藤 琴音",
             name_en: "Kotone Ito",
@@ -102,7 +103,7 @@ const _m1data = [
         base_id: "itom",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/itom.jpg",
         name: "伊藤 道史",
-        lab: "桂研究室",
+        lab: "Michibumi Ito",
         data: {
             name_ja: "伊藤 道史",
             name_en: "Michibumi Ito",
@@ -136,9 +137,9 @@ const _m1data = [
     },
     {
         base_id: "eguchi",
-        thumb_img_path: "./images/artistsinfo/m1/thumbnails/eguchi.jpeg",
+        thumb_img_path: "./images/artistsinfo/m1/thumbnails/eguchi.jpg",
         name: "江口 智之",
-        lab: "桂研究室",
+        lab: "Tomoyuki Eguchi",
         data: {
             name_ja: "江口 智之",
             name_en: "Tomoyuki Eguchi",
@@ -154,7 +155,7 @@ const _m1data = [
 美術館をバックグラウンドに持つ意識から美術の特権性及び、公益性についての研究、展示を行う。
 
 展示歴
-2022「ストーンテープ~見たら呪われる展示~」（PARA / 住所非公開）
+2022「ストーンテープ~見たら呪われる展示~」（PARA、東京某所）
 2021「Navigated Locomotion」（White Gallery / 東京・千駄木）
 2021「獸(第 0 章/交叉時点)」（BUoY / 東京・北千住）
 2020「個展 -スピーカー-」（rusu / 東京・目黒）
@@ -178,7 +179,7 @@ const _m1data = [
         base_id: "oda",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/oda.jpg",
         name: "小田 陽菜乃",
-        lab: "畠山研究室",
+        lab: "Hinano Oda",
         data: {
             name_ja: "小田 陽菜乃",
             name_en: "Hinano Oda",
@@ -224,7 +225,7 @@ const _m1data = [
         base_id: "kurachi",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/kurachi.jpg",
         name: "倉知 朋之介",
-        lab: "桂研究室",
+        lab: "Tomonosuke Kurachi",
         data: {
             name_ja: "倉知 朋之介",
             name_en: "Tomonosuke Kurachi",
@@ -265,7 +266,7 @@ const _m1data = [
         base_id: "korenaga",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/korenaga.jpg",
         name: "是永 悠之介",
-        lab: "高山研究室",
+        lab: "Yunosuke Korenaga",
         data: {
             name_ja: "是永 悠之介",
             name_en: "Yunosuke Korenaga",
@@ -299,12 +300,12 @@ const _m1data = [
         base_id: "saito",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/saito.jpg",
         name: "齋藤 千春",
-        lab: "畠山研究室",
+        lab: "Chiharu Saito",
         data: {
             name_ja: "齋藤 千春",
             name_en: "Chiharu Saito",
             work1_img: "./images/artistsinfo/m1/saito/1.jpeg",
-            work1_caption: "《phenomenon》（2022-2023）",
+            work1_caption: "《Chibo》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/saito/2.jpg",
             work2_caption: "《Somewhere》（2021）",
             //work3_img: "./images/artistsinfo/m1/saito/3.jpg",
@@ -325,7 +326,7 @@ const _m1data = [
         base_id: "suzuki",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/suzuki.jpg",
         name: "鈴木 創大",
-        lab: "畠山研究室",
+        lab: "Sota Suzuki",
         data: {
             name_ja: "鈴木 創大",
             name_en: "Sota Suzuki",
@@ -373,7 +374,7 @@ const _m1data = [
         base_id: "chanya",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/chanya.jpg",
         name: "チャンヤ･スィウランポン",
-        lab: "桐山研究室",
+        lab: "Chanya Sriuranpong",
         data: {
             name_ja: "チャンヤ･スィウランポン",
             name_en: "Chanya Sriuranpong",
@@ -407,7 +408,7 @@ const _m1data = [
         base_id: "homma",
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/homma.jpg",
         name: "本間 悠暉",
-        lab: "桂研究室",
+        lab: "Yuki Homma",
         data: {
             name_ja: "本間 悠暉",
             name_en: "Yuki Homma",

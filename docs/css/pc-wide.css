@@ -47,7 +47,7 @@ header * {
   animation-name: fadeIn;
 }
 
-/*
+
 @keyframes fadeIn {
   0% {
     opacity: 0;
@@ -57,7 +57,7 @@ header * {
   }
 }
 
-/*
+
 .top-op,.top-op2{
   position: fixed;
   top: 0;
@@ -68,7 +68,7 @@ header * {
 }
 .top-op{
   z-index: 99;
-  background: #CC1B3B;
+  background: linear-gradient(to bottom right,#009F90,#A59B38,#d83a35,#F9B879);
   animation-duration: 1.2s;
   animation-delay:4.5s;
   animation-fill-mode: forwards;
@@ -83,7 +83,7 @@ header * {
   animation-name: top-op2;
 }
 
-/*
+
 @keyframes top-op{
 0% {
   width: 100%;
@@ -110,7 +110,7 @@ header * {
   left: 100%;
 }
 }
-/*
+
 
 /* .background {
 
@@ -277,6 +277,26 @@ body {
   z-index: 10;
 }
 
+.statement-title {
+  color: black;
+  font-size: 24px;
+  padding: 0 0px 0 0;
+  margin: 10px 120px;
+}
+
+.statement-title-mini {
+  color: black;
+  font-size: 20px;
+  padding: 0 0px 0 0;
+  margin: 10px 120px;
+}
+
+.statement-title-hr {
+  padding: 0 0px 0 0;
+  margin: 30px 120px;
+}
+
+
 .section-title {
   color: black;
   font-size: 50px;
@@ -285,7 +305,7 @@ body {
 
 .section-title-min {
   color: black;
-  font-size: 30px;
+  font-size: 24px;
   padding: 0 0px 0 0;
   margin: 10px 120px;
 }
@@ -600,7 +620,7 @@ body {
 
 /* Artists */
 .contents-column{
-	padding: 0px 120px 0px 120px;
+	padding: 0px 60px 0px 60px;
   /* margin: 0; */
 }
 .contents-column h3{
@@ -633,7 +653,7 @@ body {
 }
 .artist-list-thumbnail img{
   width: 100%;
-  border-radius: 1rem;
+  border-radius: 0.4rem;
   box-shadow: 5px 10px 40px rgba(20, 19, 28, 0.35);
 }
 .artist-list-info{
@@ -788,6 +808,11 @@ body {
 	width: 100%;
 }
 
+.timeline {
+  width: 60vw;
+  border-radius: 10px;
+  margin: 60px auto;
+}
 
 
 /*フッター*/
