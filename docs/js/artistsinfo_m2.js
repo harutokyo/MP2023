@@ -8,6 +8,7 @@ const _m2data = [
         data: {
             name_ja: "今宮 有葉",
             name_en: "Ariha Imamiya",
+            name_lab:"桐山研究室",
             work1_img: "./images/artistsinfo/m2/imamiya/3.jpeg",
             work1_caption: "《色彩楽譜》（2022-2023）",
             work2_img: "./images/artistsinfo/m2/imamiya/2.jpg",
@@ -54,6 +55,7 @@ const _m2data = [
         data: {
             name_ja: "うしお 鶏",
             name_en: "Ushio K",
+            name_lab:"服部研究室",
             work1_img: "./images/artistsinfo/m2/ushio/1.jpg",
             work1_caption: "《そこにいるもの》（2022-2023）",
             work2_img: "./images/artistsinfo/m2/ushio/2.jpg",
@@ -88,6 +90,7 @@ const _m2data = [
         data: {
             name_ja: "笠島 久美子",
             name_en: "Kumiko Kasajima",
+            name_lab:"桂研究室",
             work1_img: "./images/artistsinfo/m2/kasajima/1.jpg",
             work1_caption: "《Tea house HOUSE》（2022-2023）",
             work2_img: "./images/artistsinfo/m2/kasajima/2.jpg",
@@ -127,6 +130,7 @@ const _m2data = [
         data: {
             name_ja: "桒原 幹治",
             name_en: "Kanji Kuwahara",
+            name_lab:"服部研究室",
             work1_img: "./images/artistsinfo/m2/kuwahara/3.jpg",
             work1_caption: "《Play Works》（2022-2023）",
             work2_img: "./images/artistsinfo/m2/kuwahara/1.jpg",
@@ -196,6 +200,7 @@ const _m2data = [
         data: {
             name_ja: "佐藤 瞭太郎",
             name_en: "Ryotaro Sato",
+            name_lab:"畠山研究室",
             work1_img: "./images/artistsinfo/m2/sato/3.jpg",
             work1_caption: "《Interchange》（2022）",
             work2_img: "./images/artistsinfo/m2/sato/4.jpg",
@@ -249,6 +254,7 @@ const _m2data = [
         data: {
             name_ja: "椎名 悠香",
             name_en: "Yuka Shina",
+            name_lab:"桐山研究室",
             work1_img: "./images/artistsinfo/m2/shiina/1.jpg",
             work1_caption: "《Climb》（2022-2023）",
 
@@ -278,6 +284,7 @@ const _m2data = [
         data: {
             name_ja: "砂川 天望",
             name_en: "Tembo Sunagawa",
+            name_lab:"桐山研究室",
             work1_img: "./images/artistsinfo/m2/sunagawa/1.jpg",
             work1_caption: "《Sunny》（2022-2023）",
             work2_img: "./images/artistsinfo/m2/sunagawa/2.jpg",
@@ -299,7 +306,7 @@ const _m2data = [
             url: "https://www.instagram.com/tsuontsuon"
         },
         {
-            text: "Twitter: @tsuon",
+            text: "Twitter: @tsuontsuon",
             url: "https://twitter.com/tsuontsuon"
         }
     ]
@@ -314,8 +321,9 @@ const _m2data = [
     data: {
         name_ja: "龍村 景一",
         name_en: "Keichi Tatsumura",
+        name_lab:"桂研究室",
         work1_img: "./images/artistsinfo/m2/tatsumura/1.jpg",
-        work1_caption: "「ゾンビだって恋が屍体！」（2022）",
+        work1_caption: "「ゾンビだって恋が屍体！」（2022） 本展覧会では本作も挿話される「ムラサキのおくすり」（2023）副読本を配布",
         work2_img: "./images/artistsinfo/m2/tatsumura/2.png",
         work2_caption: "「異世界入管 - 転生したら人間だった件-」（2022）",
         work3_img: "./images/artistsinfo/m2/tatsumura/3.png",
@@ -351,6 +359,7 @@ const _m2data = [
         data: {
             name_ja: "田中くるみ",
             name_en: "Kurumi Tanaka",
+            name_lab:"畠山研究室",
             work1_img: "./images/artistsinfo/m2/tanaka/1.jpg",
             work1_caption: "《散歩するはなし2》（2022-2023）",
             work2_img: "./images/artistsinfo/m2/tanaka/2.jpg",
@@ -391,6 +400,7 @@ const _m2data = [
         data: {
             name_ja: "西村 梨緒葉",
             name_en: "Rioha Nishimura",
+            name_lab:"服部研究室",
             work1_img: "./images/artistsinfo/m2/nishimura/1.jpg",
             work1_caption: "《えすく》（2022-2023）",
             work2_img: "./images/artistsinfo/m2/nishimura/2.jpg",
@@ -427,7 +437,8 @@ const _m2data = [
         data: {
             name_ja: "林 裕人",
             name_en: "Yuto Hayashi",
-            work1_img: "./images/artistsinfo/m2/hayashi/1.jpg",
+            name_lab:"桐山研究室",
+            work1_img: "./images/artistsinfo/m2/hayashi/1.png",
             work1_caption: "Neotown（2022-2023）",
             work2_img: "./images/artistsinfo/m2/hayashi/2.jpg",
             work2_caption: "",

@@ -65,6 +65,8 @@ function showartistmodal(artistdata) {
     name_ja.textContent = artistdata.name_ja;
     var name_en = clone.querySelector(".modal-name-en");
     name_en.textContent = artistdata.name_en;
+    var name_lab = clone.querySelector(".modal-name-lab");
+    name_lab.textContent = artistdata.name_lab;
 
     function setwork(number) {
         var target = ".modal-work" + number;
@@ -83,6 +85,12 @@ function showartistmodal(artistdata) {
     if (artistdata.work3_img !== "") {
         setwork(3);
     }
+
+    //var target = ".modal-profile";
+    //var work = clone.querySelector(target);
+    //var img = work.querySelector("img");
+    //img.src = path;
+
 
     var artistinfo = clone.querySelector(".modal-info-main");
     artistinfo.innerHTML = ht_str(artistdata.info);

@@ -702,7 +702,20 @@ body {
 
 .modal-name-en{
 	color: black;
-	font-size: 16px;
+	font-size: 14px;
+	font-weight:300;
+	letter-spacing: 0.15em;
+	line-height: 1.8em;
+	text-align: justify;
+	font-feature-settings: "palt";
+	margin: 0px 0px;
+  text-indent: -1em;
+  padding-left: 1em;
+}
+
+.modal-name-lab{
+	color: black;
+	font-size: 12px;
 	font-weight:300;
 	letter-spacing: 0.15em;
 	line-height: 1.8em;
@@ -769,7 +782,7 @@ body {
 }
 .modal-column-container{
 	display: flex;
-	flex-wrap: wrap;
+	/*flex-wrap: wrap;*/
   justify-content: space-between;
 
   font-size: 13.5px;
@@ -778,16 +791,26 @@ body {
 }
 .modal-column{
 	margin-top: 2rem;
-	width: 48%
+	width: 100%
 }
+
 .modal-column-info{
-  margin-left: 1.5rem;
+  color: black;
+	font-size: 14px;
+	letter-spacing: 0.15em;
+	line-height: 1.8em;
+	text-align: justify;
+	font-feature-settings: "palt";
+	margin: 15px 0px;
+  text-indent: 0em;
+  padding-left: 0em;
 }
+
 .modal-info-link-title{
   margin-top: 2.5rem;
   margin-bottom: 0.5rem;
-  font-weight: bolder;
-  font-size: 16px;
+  /*font-weight: bolder;*/
+  font-size: 14px;
 }
 .modal-info-link-list button{
   color: #314FEB;
@@ -798,8 +821,8 @@ body {
   cursor: pointer;
   /* appearance: none; */
 }
-.modal-column-works{
-}
+.modal-column-works{}
+
 .modal-work{
 	width: 100%;
 	margin-bottom: 2rem;
@@ -808,6 +831,7 @@ body {
 	width: 100%;
 }
 
+/*ツイッター*/
 .timeline {
   width: 60vw;
   border-radius: 10px;

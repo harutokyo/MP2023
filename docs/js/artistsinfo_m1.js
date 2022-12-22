@@ -7,6 +7,8 @@ const _m1data = [
         data: {
             name_ja: "安藤 美由",
             name_en: "Miyu Ando",
+            name_lab:"服部研究室",
+            profile1_img:"./images/artistsinfo/m1/ando/1.jpg",
             work1_img: "./images/artistsinfo/m1/ando/1.jpg",
             work1_caption: "《鶏皮保存日記》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/ando/2.jpg",
@@ -30,6 +32,7 @@ const _m1data = [
         data: {
             name_ja: "和泉 はるな",
             name_en: "Haruna Izumi",
+            name_lab:"桐山研究室",
             work1_img: "./images/artistsinfo/m1/izumi/1.jpg",
             work1_caption: "《いちめんの》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/izumi/2.jpg",
@@ -72,6 +75,7 @@ const _m1data = [
         data: {
             name_ja: "伊藤 琴音",
             name_en: "Kotone Ito",
+            name_lab:"桂研究室",
             work1_img: "./images/artistsinfo/m1/itok/3.jpg",
             work1_caption: "《面影》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/itok/2.jpg",
@@ -107,6 +111,7 @@ const _m1data = [
         data: {
             name_ja: "伊藤 道史",
             name_en: "Michibumi Ito",
+            name_lab:"桂研究室",
             work1_img: "./images/artistsinfo/m1/itom/1.jpg",
             work1_caption: "《PHOTOPHOBIA1》《PHOTOPHOBIA2》《PHOTOPHOBIA3》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/itom/2.jpg",
@@ -140,6 +145,7 @@ const _m1data = [
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/eguchi.jpg",
         name: "江口 智之",
         lab: "Tomoyuki Eguchi",
+        name_lab:"桂研究室",
         data: {
             name_ja: "江口 智之",
             name_en: "Tomoyuki Eguchi",
@@ -183,6 +189,7 @@ const _m1data = [
         data: {
             name_ja: "小田 陽菜乃",
             name_en: "Hinano Oda",
+            name_lab:"畠山研究室",
             work1_img: "./images/artistsinfo/m1/oda/1.jpg",
             work1_caption: "《I see.》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/oda/2.jpg",
@@ -229,6 +236,7 @@ const _m1data = [
         data: {
             name_ja: "倉知 朋之介",
             name_en: "Tomonosuke Kurachi",
+            name_lab:"桂研究室",
             work1_img: "./images/artistsinfo/m1/kurachi/1.jpg",
             work1_caption: "《PoPoPot》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/kurachi/2.jpg",
@@ -270,6 +278,7 @@ const _m1data = [
         data: {
             name_ja: "是永 悠之介",
             name_en: "Yunosuke Korenaga",
+            name_lab:"高山研究室",
             work1_img: "./images/artistsinfo/m1/korenaga/1.jpg",
             work1_caption: "《地図はあとで見る》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/korenaga/2.jpg",
@@ -301,6 +310,7 @@ const _m1data = [
         thumb_img_path: "./images/artistsinfo/m1/thumbnails/saito.jpg",
         name: "齋藤 千春",
         lab: "Chiharu Saito",
+        name_lab:"畠山研究室",
         data: {
             name_ja: "齋藤 千春",
             name_en: "Chiharu Saito",
@@ -330,6 +340,7 @@ const _m1data = [
         data: {
             name_ja: "鈴木 創大",
             name_en: "Sota Suzuki",
+            name_lab:"畠山研究室",
             work1_img: "./images/artistsinfo/m1/suzuki/1.jpg",
             work1_caption: "《Gate》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/suzuki/2.jpg",
@@ -378,6 +389,7 @@ const _m1data = [
         data: {
             name_ja: "チャンヤ･スィウランポン",
             name_en: "Chanya Sriuranpong",
+            name_lab:"桐山研究室",
             work1_img: "./images/artistsinfo/m1/chanya/2.jpg",
             work1_caption: "《DUCK!》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/chanya/1.png",
@@ -412,6 +424,7 @@ const _m1data = [
         data: {
             name_ja: "本間 悠暉",
             name_en: "Yuki Homma",
+            name_lab:"桂研究室",
             work1_img: "./images/artistsinfo/m1/homma/3.jpg",
             work1_caption: "《クロニクル・オブ・ア・ヴォイド》（2022-2023）",
             work2_img: "./images/artistsinfo/m1/homma/1.jpg",
