@@ -468,14 +468,14 @@ body{
 
 .element #info-in-about .small-indent{
 	color: black;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight:300;
 	letter-spacing: 0.15em;
 	line-height: 1.8em;
 	text-align: justify;
 	font-feature-settings: "palt";
 	margin: 10px 0px;
-  text-indent: -1em;
+  text-indent: -0.8em;
   padding-left: 1em;
 }
 
@@ -624,15 +624,15 @@ backdrop-filter: blur(30px);
 
 .artist-list-info-name{
 	color: black;
-	font-size: 13px;
+	font-size: 12px;
 	font-weight:300;
 	letter-spacing: 0.15em;
 	line-height: 1.8em;
 	text-align: justify;
 	font-feature-settings: "palt";
 	margin: 0px 0px;
-  text-indent: -1em each-line;
-  /*padding-left: 1em;*/
+  text-indent: -1em;
+  padding-left: 1em;
 }
 
 .artist-list-info-lab{
@@ -650,15 +650,13 @@ backdrop-filter: blur(30px);
 
 .modal-name-ja{
 	color: black;
-	font-size: 16px;
+	font-size: 13px;
 	font-weight:300;
 	letter-spacing: 0.15em;
 	line-height: 1.8em;
 	text-align: justify;
 	font-feature-settings: "palt";
 	margin: 0px 0px;
-  text-indent: -1em;
-  padding-left: 1em;
 }
 
 .modal-name-en{
@@ -670,8 +668,6 @@ backdrop-filter: blur(30px);
 	text-align: justify;
 	font-feature-settings: "palt";
 	margin: 0px 0px;
-  text-indent: -1em;
-  padding-left: 1em;
 }
 
 .modal-name-lab{
@@ -774,7 +770,7 @@ backdrop-filter: blur(30px);
 .modal-column-container{
 	display: flex;
 	flex-wrap: wrap;
-  font-size: 13px;
+  font-size: 11px;
   line-height: 19px;
 }
 .modal-column{

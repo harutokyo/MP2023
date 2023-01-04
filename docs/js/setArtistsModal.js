@@ -78,18 +78,18 @@ function showartistmodal(artistdata) {
         eval("var text = artistdata.work" + number + "_caption;");
         caption.textContent = text;
     }
+
+
     setwork(1);
     if (artistdata.work2_img !== "") {
         setwork(2);
-    }
+    } 
     if (artistdata.work3_img !== "") {
         setwork(3);
-    }
+    } 
 
-    //var target = ".modal-profile";
-    //var work = clone.querySelector(target);
-    //var img = work.querySelector("img");
-    //img.src = path;
+
+
 
 
     var artistinfo = clone.querySelector(".modal-info-main");

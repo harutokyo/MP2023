@@ -492,7 +492,7 @@ body {
   text-align: justify;
   font-feature-settings: "palt";
   margin: 10px 0px;
-  text-indent: -1em;
+  text-indent: -0.8em;
   padding-left: 1em;
 }
 
